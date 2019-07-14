@@ -1,5 +1,5 @@
 ## 搭建博客环境方法
-- 安装hexo
+- 安装hexo  
 $ npm install hexo-cli -g  
 $ hexo init blog  
 $ cd blog  
